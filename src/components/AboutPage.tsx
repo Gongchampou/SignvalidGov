@@ -294,7 +294,7 @@ const OwnershipScrapReveal: React.FC = () => {
       <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
         <span className="ownership-disclaimer-label">
           <UserCheck size={14} style={{ color: 'var(--primary-green)' }} />
-          <span>Project Ownership:</span>
+          <span>Ownership:</span>
         </span>
         <span
           className={`telegram-spoiler ${isRevealed ? 'is-revealed' : 'is-hidden'}`}
