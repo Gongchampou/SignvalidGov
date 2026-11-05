@@ -10,14 +10,21 @@
 **SignValid** is a high-performance, 100% client-side web application designed to validate Indian government digitally signed PDF documents against the official **Controller of Certifying Authorities (CCA)** root trust store under India's **Information Technology Act, 2000**.
 
 It permanently fixes the notorious Adobe Acrobat **`? Validity Unknown`** warning by verifying cryptographic signatures and generating an authentic universal display copy embedded with a permanent **`✓ Signature Valid`** green checkmark—viewable on mobile phones, web browsers, and paper printouts.
-<div align="center">
+<h2 align="left">🎞️ Videos Demonstration 👇 </h2>
+
+<p align="left">
   <a href="https://www.youtube.com/watch?v=95HsY7z6IOc">
-    <img src="https://github.com/Gongchampou/SignvalidGov/blob/main/thumbnail.png"
-         width="600"
-         alt="thumbnail">
+    <img
+      src="https://github.com/Gongchampou/SignvalidGov/blob/main/thumbnail.png"
+      alt="E-Aadhaar Signature Validation Demo"
+      width="500"
+    />
   </a>
-  <p>▶️ Click the thumbnail to watch the video.</p>
-</div>
+</p>
+
+
+
+<hr>
 
 <table>
   <tr>
