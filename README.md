@@ -12,9 +12,9 @@
 It permanently fixes the notorious Adobe Acrobat **`? Validity Unknown`** warning by verifying cryptographic signatures and generating an authentic universal display copy embedded with a permanent **`✓ Signature Valid`** green checkmark—viewable on mobile phones, web browsers, and paper printouts.
 <div align="center">
   <a href="https://www.youtube.com/watch?v=95HsY7z6IOc">
-    <img src="https://img.youtube.com/vi/95HsY7z6IOc/maxresdefault.jpg"
+    <img src="https://github.com/Gongchampou/SignvalidGov/blob/main/thumbnail.png"
          width="600"
-         alt="Watch Demo Video">
+         alt="thumbnail">
   </a>
   <p>▶️ Click the thumbnail to watch the video.</p>
 </div>
